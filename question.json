@@ -1,0 +1,427 @@
+[
+  {
+    "question": "What is Hooke's Law?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Define angular momentum.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Describe the Heisenberg Uncertainty Principle.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Explain the process of radioactive decay.",
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "What is Kirchhoff's Voltage Law?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Calculate the work done by a force of 20 N moving an object 3 meters.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+
+  {
+    "question": "What is the main function of the chloroplast?",
+    "subject": "Biology",
+    "topic": "Botany",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the lac operon model of gene regulation.",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Describe the process of glycolysis.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "What is the Hardy-Weinberg principle?",
+    "subject": "Biology",
+    "topic": "Evolution",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Explain the role of ribosomes in protein synthesis.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe the phases of the cell cycle.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+
+  {
+    "question": "Solve for y: 3y - 4 = 2.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the integral of sin(x) dx?",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Find the area of a circle with radius 7 cm.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Prove the binomial theorem.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "What is the value of the golden ratio?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Solve the system of equations: 2x + y = 5 and x - y = 2.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+
+  {
+    "question": "What is the capital of Japan?",
+    "subject": "Geography",
+    "topic": "Asia",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe the process of plate tectonics.",
+    "subject": "Geography",
+    "topic": "Geology",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Explain how earthquakes occur.",
+    "subject": "Geography",
+    "topic": "Geology",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Name the tallest mountain in the world.",
+    "subject": "Geography",
+    "topic": "Physical Geography",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is a delta and how is it formed?",
+    "subject": "Geography",
+    "topic": "Hydrology",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Explain the concept of climate change.",
+    "subject": "Geography",
+    "topic": "Climatology",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "subject": "Literature",
+    "topic": "British Literature",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Analyze the themes in 'Moby Dick' by Herman Melville.",
+    "subject": "Literature",
+    "topic": "American Literature",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Discuss the character of Elizabeth Bennet in 'Pride and Prejudice'.",
+    "subject": "Literature",
+    "topic": "British Literature",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "What is the structure of a haiku?",
+    "subject": "Literature",
+    "topic": "Poetry",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Compare the works of Charles Dickens and Thomas Hardy.",
+    "subject": "Literature",
+    "topic": "British Literature",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Explain the use of symbolism in 'The Scarlet Letter'.",
+    "subject": "Literature",
+    "topic": "American Literature",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+
+  {
+    "question": "What is the law of conservation of energy?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe Newton's Second Law.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the resistance of a circuit with a voltage of 12V and a current of 3A?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the light-dependent reactions of photosynthesis.",
+    "subject": "Biology",
+    "topic": "Botany",
+    "difficulty": "Medium",
+    "marks": 15
+  },
+  {
+    "question": "Define genetic drift.",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "Describe the principle of superposition.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "Explain the concept of resonance.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "State and explain Gauss's Law.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Describe the process of evaporation.",
+    "subject": "Biology",
+    "topic": "Botany",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the principles of Mendelian genetics.",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is general relativity?",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "Explain the function of the nucleus in a cell.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What are electromagnetic waves?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe the role of RNA in protein synthesis.",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is Lenz's law?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 15
+  },
+  {
+    "question": "Explain the impact of deforestation.",
+    "subject": "Biology",
+    "topic": "Botany",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is entropy?",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "Describe the Krebs cycle.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Explain the process of diffusion.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is string theory?",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "Define magnetic flux.",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is chlorophyll?",
+    "subject": "Biology",
+    "topic": "Botany",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe the CRISPR technology.",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "What is a diode?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the three laws of thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 15
+  },
+  {
+    "question": "Describe the light-independent reactions of photosynthesis.",
+    "subject": "Biology",
+    "topic": "Botany",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "What are pluripotent stem cells?",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is a parallel circuit?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the concept of dark matter.",
+    "subject": "Physics",
+    "topic": "Astrophysics",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "What is the function of chloroplasts in photosynthesis?",
+    "subject": "Biology",
+    "topic": "Botany",
+    "difficulty": "Medium",
+    "marks": 10
+  }
+]
